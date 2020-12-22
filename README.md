@@ -1,5 +1,7 @@
 # Weather-App
 https://gg2704.github.io/Weather-App/.
+# The Goal
+The goal of this homework was to create a working Weather App for cities by scratch.
 # User Story
 AS A traveler
 I WANT to see the weather outlook for multiple cities
@@ -19,6 +21,6 @@ THEN I am again presented with current and future conditions for that city
 WHEN I open the weather dashboard
 THEN I am presented with the last searched city forecast
 
-# Resoures
+# Resources
 ~https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
 ~https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
