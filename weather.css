@@ -1,0 +1,21 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+.currentWeatherDivCreated {
+    border: 1px solid lightgray;
+    border-radius: 1px;
+    padding: 20px 15px;
+    background-color: black;
+    color: white;
+}
+.card-body {
+    color: white;
+    background-color: black;
+}
+button {
+    background-color: black;
+    color: white;
+}
