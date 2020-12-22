@@ -1,5 +1,5 @@
 # Weather-App
-https://github.com/gg2704/Weather-App.git
+https://gg2704.github.io/Weather-App/.
 # User Story
 AS A traveler
 I WANT to see the weather outlook for multiple cities
